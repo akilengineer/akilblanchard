@@ -1,8 +1,5 @@
-### Hi, I'm Akil 👋
+### Hi! 👋
 
-I'm a DevOps Analyst from Dominica who is based in Dallas, TX and I
-
-- :telescope: Check out my [blog](https://medium.com/@akilblanchard09) where I share my insights and learning in detail 
 - :zap: Exploring new technologies
 - :zap: Fun Fact: I started using the CLI before I actually knew what it was.
 - :zap: In my free time, I'm either at the gym, playing saxophone or struggling to beat God of War.
