@@ -6,7 +6,7 @@
 
 ---
 ## 🔭 Current Endeavors :
-I’m currently learning Kubernetes and everything related to Cloud/DevOps.
+Always deep diving into systems and everything related to Cloud/DevOps.
 
 
 ---
